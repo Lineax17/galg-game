@@ -298,7 +298,7 @@ public class Level3 extends Level {
                 WWWWW                              WWWWW\s
                 WWWWWW                             WWWWW\s
                 WWWWWWW          22                WWWWW\s
-                WWWWWWWW          hh               WWWWW\s
+                WWWWWWWW          HH               WWWWW\s
                 WWWWWWWWW                          WWWWW\s
                 WWWWWWWWWW                         WWWWW\s
                 WWWWWWWWWWW                       WWWWWW\s
@@ -663,7 +663,7 @@ public class Level3 extends Level {
                     WWWWW                              WWWWW\s
                     WWWWWW                             WWWWW\s
                     WWWWWWW          22                WWWWW\s
-                    WWWWWWWW          hh               WWWWW\s
+                    WWWWWWWW          HH               WWWWW\s
                     WWWWWWWWW                          WWWWW\s
                     WWWWWWWWWW                         WWWWW\s
                     WWWWWWWWWWW                       WWWWWW\s
